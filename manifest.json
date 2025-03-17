@@ -6,7 +6,7 @@
       ]
     }
   },
-  "description": "Arduino Chrome Serial Monitor.",
+  "description": "This is a open source project to provide people with a simple Arduino Serial Monitor to be used on Chrome or Chrome enabled devices.",
   "icons": {
     "128": "assets/icon-128x128.png",
     "16": "assets/icon-16x16.png"
@@ -16,5 +16,5 @@
   "permissions": [
     "serial"
   ],
-  "version": "0.0.6"
+  "version": "0.0.7"
 }

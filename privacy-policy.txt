@@ -1,0 +1,37 @@
+Privacy Policy for Arduino Serial Monitor
+Last Updated: 2025-03-16
+
+Thank you for using Arduino Serial Monitor (the "Product"). 
+This Privacy Policy explains how we handle user data in connection with the Product.
+
+1. Data Collection
+
+Arduino Serial Monitor does NOT collect, store, or transmit any personal or user data. This includes, but is not limited to:
+
+Personal information (e.g., name, email address, etc.).
+
+Usage data (e.g., how you interact with the tool).
+
+Device information (e.g., IP address, operating system, etc.).
+
+Any data transmitted through the Arduino Serial Monitor.
+
+2. Data Usage
+Since Arduino Serial Monitor does NOT collect any user data, there is no data to use, process, or analyze.
+
+3. Data Sharing
+Arduino Serial Monitor does NOT share any user data with third parties, as no data is collected in the first place.
+
+4. Third-Party Services
+Arduino Serial Monitor does NOT integrate with any third-party services that collect or process user data.
+
+5. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make any changes, we will update the "Last Updated" date at the top of this policy.
+We encourage you to review this policy periodically to stay informed about how we are protecting your privacy.
+
+6. Contact Us
+If you have any questions or concerns about this Privacy Policy or Arduino Serial Monitor, please contact us at: <dalmirdasilva@gmail.com>
+
+Summary
+Arduino Serial Monitor is designed to help students learn how Arduino works. It does NOT collect, use, or share any user data.
+By using this tool, you can be confident that your privacy is fully respected.
